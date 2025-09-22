@@ -176,3 +176,51 @@ padding: 10px;
     border-radius: 10px;
     background-color: #006A50 ;
 }
+.cen{
+    text-align: center;
+    margin: 32px 84px;
+    padding: 0px 35px;
+}
+
+.ta{
+    display: flex;
+    justify-content: center;
+    margin: 24px;
+    gap: 24px;
+}
+
+.free{
+    border: 1px solid white;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 16px;
+}
+#col{
+    background-color: #006A50;
+}
+
+
+
+.content{
+    width: 850px;
+    height: 60px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    gap: 24px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border: none;
+}
+.heroo{
+    background-color: #006A50;
+    margin: 15px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+.her{
+    justify-content: center;
+    text-align: center;
+}
