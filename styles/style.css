@@ -1,0 +1,111 @@
+
+
+
+
+body {
+    margin: 5px 160px;
+    background-color: #F1F1F3;
+}
+  /* nav style */
+
+nav ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 30px; */
+    
+}
+.nav1{
+ font-size: 32px;
+ font-weight: bold;
+ color: black;
+}
+.nav2{
+ margin-right: 20px;
+border: 2px solid rgba(0, 106, 80, 1);
+padding: 10px 15px;
+border-radius: 5px;
+color:rgba(0, 106, 80, 1) ;
+}
+
+
+   /* card 1 */
+
+
+.column{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    /* justify-content: left right; */
+    padding: 100px;
+    /* margin: 20px 160px 80px 160px;  */
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    justify-content: center;
+    margin-right: 30px;
+    margin: auto;
+}
+
+
+
+.title{
+    font-size: 24px;
+    font-weight:bold ;
+    color:rgba(14, 14, 14, 0.5) ;
+}
+.dis{
+    font-size: 56px;
+   
+    color:rgba(14, 14, 14, 1) ;
+    margin: 10px 0px 24px 0px;
+}
+.btn{
+background-color: rgba(0, 106, 80, 1);
+color: white;
+border-radius: 8px;
+padding: 10px;
+}
+.car{
+    width: 500px;
+    height: 150px;
+    margin-bottom: 70px;
+    /* padding: 50px; */
+}
+
+.card{
+    display: flex;
+    gap: 25px;
+    
+    padding-left: 10px;
+
+}
+.hed{
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.card1{
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 24px;
+    /* margin: 24px; */
+}
+.card2{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+.card3{
+    background-color: #7ac9a5 ;
+    padding: 32px;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+.card4{
+    background-color:rgb(255, 227, 161) ;
+    padding: 32px;
+    border-radius: 16px;
+    margin-top: 32px;
+}
