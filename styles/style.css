@@ -45,6 +45,7 @@ color:rgba(0, 106, 80, 1) ;
     justify-content: center;
     margin-right: 30px;
     margin: auto;
+    
 }
 
 
@@ -108,4 +109,70 @@ padding: 10px;
     padding: 32px;
     border-radius: 16px;
     margin-top: 32px;
+}
+
+.sec{
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    padding: 40px 25px;
+   background-image: url(../assets/quote-bg.png);
+    border-radius: 16px;
+    border: 1px solid white;
+    background-color: #ffffff;
+   background-position: 25px 24px;
+}
+
+
+    /* none  */
+
+
+
+.column-dis{
+    border: 1px solid white;
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 32px;
+}
+.column-title{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #b1b1b15d;
+    padding: 2px 24px;
+    background-color: #C6E4D6;
+}
+.column-title1{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #b1b1b15d;
+    padding: 2px 24px;
+    align-items: center;
+    
+}
+.bor{
+    padding: 10px;
+    background-color: #C6E4D6;
+    border-radius: 5px;
+}
+
+.sate{
+    display: flex;
+    border: 1px solid white;
+    background-color: #ffffff;
+    border-radius: 20px;
+    gap: 20px;
+    margin-top: 30px;
+}
+.sate-title{
+    margin: 20px 10px 20px 30px;
+    border-radius: 24px;
+}
+
+.sate-dis{
+    padding: 30px;
+}
+
+.hero{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #006A50 ;
 }
